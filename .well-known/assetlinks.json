@@ -3,6 +3,6 @@
      "target": {
        "namespace": "android_app",
        "package_name": "golemapps.stringwise.app",
-       "sha256_cert_fingerprints": "90:A2:E6:6B:7D:54:76:F9:5D:49:07:8D:D8:D6:AB:C7:D4:20:52:33:C9:C3:A2:31:65:D2:F8:75:7A:83:79:A9"
+       "sha256_cert_fingerprints": ["90:A2:E6:6B:7D:54:76:F9:5D:49:07:8D:D8:D6:AB:C7:D4:20:52:33:C9:C3:A2:31:65:D2:F8:75:7A:83:79:A9"]
      }
    }]
